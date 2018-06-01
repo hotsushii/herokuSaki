@@ -1,0 +1,9 @@
+{
+  "name": "herokuSaki",
+  "version": "1.0.0",
+  "description": "jonathan ortiz's application resume",
+  "main": "index.js",
+  "repository": "https://github.com/hotsushii/herokuSaki",
+  "author": "joortiz <joortiz@adobe.com>",
+  "license": "MIT"
+}
